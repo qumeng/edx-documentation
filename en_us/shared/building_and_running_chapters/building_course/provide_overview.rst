@@ -58,7 +58,7 @@ information for students who may be interested in taking your course. It
 introduces the main idea of the course and describes the topics or concepts that
 the course covers. The overview can also describe the skills and knowledge your
 students need to be able to succeed in your course, as well as provide
-information about course requirements and staff.
+information about course requirements and the course team.
 
 The course overview is outlined in the following course About page.
 
@@ -123,9 +123,9 @@ To add a course image, follow these steps.
 Add a Course Introduction Video
 *********************************
 
-To excite and entice potential students to enroll, each course can have a course
-introduction video. The video should reveal some of the personality the
-instructors bring to the course.
+To excite and entice potential students to enroll, each course can have a
+course introduction video. The video should reveal some of the personality that
+the members of the course team bring to the course.
 
 .. image:: ../../../shared/building_and_running_chapters/Images/about-page-course-video.png
  :alt: Image of the course video in the course About page.

@@ -64,10 +64,10 @@ All problems on the edX platform have several component parts.
 
 #. **Show Answer button.** This button is optional. When the student
    clicks **Show Answer**, the student sees both the correct answer (see 2
-   above) and the explanation (see 10 below). The instructor sets whether
+   above) and the explanation (see 10 below). You define whether
    the **Show Answer** button is visible.
 
-#. **Attempts.** The instructor might set a specific number of attempts or allow
+#. **Attempts.** You can set a specific number of attempts, or allow
    unlimited attempts for a problem. By default, the course-wide **Maximum
    Attempts** advanced setting is null, meaning that the maximum number of
    attempts for problems is unlimited. If the course-wide **Maximum Attempts**
@@ -85,10 +85,10 @@ All problems on the edX platform have several component parts.
    .. image:: ../../../shared/building_and_running_chapters/Images//AnatomyofaProblem_Feedback.png
     :alt: Image of feedback checkmark and x from a student's point of view
 
-#. **Correct answer.** Most problems require that the instructor specify
+#. **Correct answer.** Most problems require that you specify 
    a single correct answer.
 
-#. **Explanation.** The instructor may include an explanation that
+#. **Explanation.** You can include an explanation that
    appears when a student clicks **Show Answer**.
 
 #. **Reset button.** Students can click **Reset** to clear any input that has
@@ -104,7 +104,7 @@ All problems on the edX platform have several component parts.
    .. image:: ../../../shared/building_and_running_chapters/Images//AnatomyOfExercise3.png
     :alt: A graded assignment shown in the left pane of the LMS for a course
 
-#. **Grading.** The instructor may specify whether a group of problems
+#. **Grading.** You can specify whether a group of problems
    is graded. If a group of problems is graded, a clock icon appears for
    that assignment in the left pane.
 
@@ -122,11 +122,11 @@ All problems on the edX platform have several component parts.
 There are also some attributes of problems that are not immediately
 visible. You can set these attributes in Studio.
 
-*  **Randomization.** For some problems, the instructor can specify
+*  **Randomization.** For some problems, you can specify
    whether a problem will use randomly generated numbers that vary from
    student to student.
 
-*  **Weight.** Different problems in a particular problem set may be
+*  **Weight.** Different problems in a particular problem set can be
    given different weights.
 
 *  **Label.** To improve accessibility for students who have disabilities, each
@@ -569,7 +569,7 @@ After a student submits a response to a problem, the edX Learning Management
 System (LMS) stores the student's response, the score that the student
 received, and the maximum score for the problem. For problems with a **Maximum
 Attempts** setting greater than 1, the LMS updates these values each time the
-student submits a new response to a problem. However, if an instructor changes
+student submits a new response to a problem. However, if you change
 a problem or its attributes, existing student information for that problem is
 not automatically updated.
 
@@ -772,11 +772,12 @@ Create Randomized Problems
 
 .. note::
 
-  * Once you've implemented randomization, you can only see one of the versions
-    or problems in Studio. You can edit that single problem directly in Studio,
-    but to edit any of the other problems, you'll have to export your course,
-    edit the problems in a text editor, and then re-import the course. This is
-    true for instructors as well as course teams.
+  * After you implement randomization, you can only see one of the versions or
+    problems in Studio. You can edit that single problem directly in Studio,
+    but to edit any of the other problems, you must export your course, edit
+    the problems in a text editor, and then re-import the course. The same
+    procedure applies to all course team members, regardless of their assigned
+    roles.
   
   * A .csv file for student responses contains the responses to each of the
     problems in the problem bank.

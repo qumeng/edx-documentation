@@ -702,7 +702,7 @@ simulations supplied by third parties might require the supplier’s consent if
 copyrighted material is involved.
 
 Consider the following questions when creating simulations, keeping in mind
-that as the course instructor, you enjoy considerable freedom in selecting
+that as the course creator, you enjoy considerable freedom in selecting
 course objectives and outcomes. Additionally, if the visual components of a
 simulation are so central to your course design, providing alternate text
 description and other accommodations might not be practical or feasible.

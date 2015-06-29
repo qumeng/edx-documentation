@@ -163,7 +163,7 @@ February 2015
    * - 2/19/15
      - Updated ORA documentation to reflect ability to :ref:`Remove a student response from peer grading`
    * - 
-     - Updated ORA documentation to indicate that course staff can use student
+     - Updated ORA documentation to indicate that course teams can use student
        usernames to :ref:`Access Student Information`. They no longer need to
        obtain an anonymized student ID.
    * - 2/13/15
@@ -492,7 +492,7 @@ May 2014
      - Updated the :ref:`Course_Staffing` section to state the labeling
        differences between Studio and the LMS with respect to course team roles.
    * - 05/09/14
-     - Updated :ref:`Assigning_discussion_roles` with a note about course staff
+     - Updated :ref:`Assigning_discussion_roles` with a note about course teams
        requiring explicit granting of discussion administration roles.
    * - 
      - Added VitalSource topic.
@@ -732,7 +732,7 @@ December 2013
    * - Date
      - Change  
    * - 12/20/2013
-     - Made :ref:`ORA for Students` into template that instructors can
+     - Made :ref:`ORA for Students` into template that course team members can
        customize.
    * - 12/19/2013
      - Created "Tools" topic. (Note 4/10/14: Topic merged into :ref:`Create Exercises`.)

@@ -14,7 +14,7 @@ types.
 Viewing Feedback
 **********************
 
-In the LMS, learners see feedback that the instructor configured when they
+In the LMS, learners see feedback configured by the course team when they
 select **Check** in a problem.
 
 .. image:: /Images/multiple_choice_feedback_custom_label.png
@@ -26,12 +26,12 @@ The specific feedback learners see depends on their selections.
 Viewing Hints
 **********************
 
-When the instructor configures hints, learners can view those hints by
+When the course team configures hints, learners can view those hints by
 selecting **Hint** beneath the problem.
 
 .. image:: /Images/multiple_choice_hint.png
   :alt:  Hints in a multiple choice problem.
   :width:  600
 
-When the instructor configures multiple hints, the next hint is displayed each
+When the course team configures multiple hints, the next hint is displayed each
 time the learner selects **Hint**.
