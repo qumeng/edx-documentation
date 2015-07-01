@@ -12,7 +12,7 @@ recommend that you specify more than one correct answer for text input
 problems to allow for differences in capitalization and typographical errors.
 
 .. image:: ../../../shared/building_and_running_chapters/Images/TextInputExample.png
- :alt: Image of a text input problem
+ :alt: An example text input problem.
 
 For the text input problems in your course, you can use edX Insights to review
 aggregated learner performance data and examine submitted answers. For more
