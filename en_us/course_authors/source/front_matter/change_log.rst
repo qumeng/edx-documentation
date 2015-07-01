@@ -252,7 +252,7 @@ December 2014
        Editor` to clarify that the visual editor is not supported for course
        handouts.
    * - 
-     - Added the :ref:`Assign Students to Cohort Groups by uploading CSV`
+     - Added the :ref:`Assign Learners to Cohort Groups by uploading CSV`
        section.       
    * - 12/17/14
      - Updated :ref:`Custom JavaScript` and :ref:`Multiple Problems in One
@@ -339,7 +339,7 @@ October 2014
    * - 10/14/14
      - Added the :ref:`Rerun a Course` chapter.
    * - 10/7/14
-     - Added the :ref:`Including Student Cohorts` chapter.
+     - Added the :ref:`Including Learner Cohorts` chapter.
        
 *****************
 September 2014
@@ -652,7 +652,7 @@ March 2014
 
        * :ref:`Getting Started Index`
 
-       * :ref:`Building a Course Index`
+       * :ref:`Setting up Your Course Index`
 
        * :ref:`Creating Course Content Index`
 
